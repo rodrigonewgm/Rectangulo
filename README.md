@@ -1,2 +1,2 @@
 # Rectangulo
-aprendemos a crear un objeto y acceder a sus atributos por medio de sus propiedades
+Crear un objeto, las propiedades, los constructores y los métodos.
